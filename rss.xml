@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[MusiqAve]]></title>
-        <description><![CDATA[MusiqAve]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Connoisseurs of Soul Music]]></title>
+        <description><![CDATA[Connoisseurs of Soul Music]]></description>
+        <link>https://thegrid.ai/musiqave/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 13:15:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 Nov 2015 13:55:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/musiqave/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81cbc08c-0cfc-4f9c-b48c-543d50602961.jpg">]]></description>
+            <link>https://thegrid.ai/musiqave/0877fcc2-d008-4cd3-87fa-c36fe1bf03b3/index.html</link>
+            <guid isPermaLink="false">0877fcc2-d008-4cd3-87fa-c36fe1bf03b3</guid>
+            <pubDate>Mon, 16 Nov 2015 13:55:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome...this is us! We love, and live good beats. We are so crazy about out beats that we sleep late at sometimes making mixtapes. Crazy ha! Take a listen and be sure to leave your comments.</p>]]></description>
-            <link>undefineda2d8f57e-5bbc-47aa-81f7-750ae00e6ce0/index.html</link>
+            <link>https://thegrid.ai/musiqave/a2d8f57e-5bbc-47aa-81f7-750ae00e6ce0/index.html</link>
             <guid isPermaLink="false">a2d8f57e-5bbc-47aa-81f7-750ae00e6ce0</guid>
             <pubDate>Mon, 16 Nov 2015 13:15:04 GMT</pubDate>
         </item>
