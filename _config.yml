@@ -1,0 +1,23 @@
+name: MusiqAve
+favicon: null
+layout_spectrum: 0.9205504544079304
+typography_spectrum: 0.7996168793179095
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6433451096527278
+  lightness: 0.518376454943791
+  saturation: 0.11652531265281141
+  rhythmicContrast: 0.17379092588089406
+purpose: []
