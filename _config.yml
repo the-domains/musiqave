@@ -1,6 +1,6 @@
 name: MusiqAve
 favicon: null
-layout_spectrum: 0.9205504544079304
+layout_spectrum: 0.10574
 typography_spectrum: 0.7996168793179095
 title: Connoisseurs of Soul Music
 cta:
@@ -22,7 +22,7 @@ color:
     - '#383029'
     - '#5a5048'
     - '#e2ddd4'
-  brandStrength: 0.6433451096527278
+  brandStrength: 0.3125
   lightness: 0.518376454943791
   saturation: 0.11652531265281141
   rhythmicContrast: 0.17379092588089406
