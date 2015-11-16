@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://soundcloud.com'
   name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 keywords: []
 description: 'Listen to Musiq Avenue | Explore the largest community of artists, bands, podcasters and creators of music & audio.. 50 Tracks. 280 Followers. Stream Tracks and Playlists from Musiq Avenue on your desktop or mobile device.'
 app_links:
@@ -24,13 +24,16 @@ app_links:
     type: web
 isBasedOnUrl: 'https://soundcloud.com/musiq-ave/'
 title: Musiq Avenue
-datePublished: '2015-11-16T13:58:53.601Z'
-dateModified: '2015-11-16T13:58:27.661Z'
+datePublished: '2015-11-16T14:17:54.903Z'
+dateModified: '2015-11-16T14:17:49.800Z'
 sourcePath: _posts/2015-11-16-musiq-avenue.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: false
+authors: []
 _type: AudioObject
 _context: 'http://schema.org'
 
